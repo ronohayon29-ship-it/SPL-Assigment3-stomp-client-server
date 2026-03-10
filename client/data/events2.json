@@ -1,0 +1,46 @@
+{
+  "team a": "Israel",
+  "team b": "Iran",
+  "events": [
+    {
+      "event name": "kickoff",
+      "time": 0,
+      "general game updates": {
+        "before halftime": "true"
+      },
+      "team a updates": {},
+      "team b updates": {},
+      "description": "The match between Israel and Iran has started."
+    },
+    {
+      "event name": "goal",
+      "time": 3120,
+      "general game updates": {},
+      "team a updates": {
+        "goals": "1"
+      },
+      "team b updates": {},
+      "description": "Goal for Israel at 45+7 minutes (first half)."
+    },
+    {
+      "event name": "halftime",
+      "time": 3150,
+      "general game updates": {
+        "before halftime": "false"
+      },
+      "team a updates": {},
+      "team b updates": {},
+      "description": "Halftime whistle. Second half will begin."
+    },
+    {
+      "event name": "goal",
+      "time": 2820,
+      "general game updates": {},
+      "team a updates": {},
+      "team b updates": {
+        "goals": "1"
+      },
+      "description": "Goal for Iran at 47 minutes (second half)."
+    }
+  ]
+}
